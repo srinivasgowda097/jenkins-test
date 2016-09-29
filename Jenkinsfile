@@ -2,6 +2,6 @@
 
 stage ('build') {
   node {
-    echo 'This is a build from branch
+    echo 'This is a build from branch'
   }
 }
